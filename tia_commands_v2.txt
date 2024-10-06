@@ -1,0 +1,35 @@
+# tia commands
+
+1- good mrning 
+2- good afternoon 
+3- my name is (say your name)
+4- what is my name (she speak your name )
+5- if you say any bad words she ask you to be polite 
+6- break (she will break for 1 minute)
+7- wake ( if your pc is in the black screen she will wake and move the black screen a way)
+8- can you help me 
+9- say hi to (name any one you want tia to say hi to him)
+10- say (say any thing you want tia to say it )
+11- hi or hello
+12- hey 
+13- waht is your name (this is speak tia name)
+14- who is developer of you (if you want to reach developer that develop tia,after that speak (yes) if you want to reach me or (no) )
+15- how are you (you ask tia about his health)
+16- iam fine (if she asked you about your health you say (iam fine) or (iam good)
+17- time (asked about time )
+18- play (play any vedio on youtube or music)
+19- open (open any app in the pc by search bar)
+20- close (close any app you chose to close it)
+21- minimize (minimizing any window you chose)
+22- tell me (speak to you any info from wikipedia )
+23- exit or go to sleep (this will close tia app)
+24- serach on google (serach about any thing you whant in chrome )
+25- shut down (this will shut down the pc )
+26- restart (this will restart the pc)
+27- lock screen (this will  lock the screen the pc)
+28- screenshot (take screenshot to the screen )
+29- switch (switch to the next window )
+30- update (this will open an application that update pc drivers)
+31- remember that or note (speak waht do you whant to make tia remember )
+32- waht do you remember (she say to you what you told it to remember)
+33- clear (clear the remember file)
