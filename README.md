@@ -1,1 +1,1 @@
-# wellcome to tia voice assistant app
+# welcome to tia voice assistant app
